@@ -1,3 +1,11 @@
+# Note: This is ***NOT*** my application
+
+Phunk was created by [shibadevs](https://github.com/shibadevs/phunk). Support for it seems to have been abandoned as the last commit was ~5 months ago (at the time of writing this).
+All I've done is go through and make optimizations and fixed the Java recognition error.
+Other than that, everything remains the same.
+
+If you want to give it a star, do it on the fork source and not this repo. shibadevs deserves the recognition for this.
+
 # Phunk
 *Automatically change the package name of APK(s)*
 
