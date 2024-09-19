@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="MVVM\Model\" />
     <Folder Include="MVVM\View\UserControls\" />
     <Folder Include="MVVM\View\Pages\" />
   </ItemGroup>
